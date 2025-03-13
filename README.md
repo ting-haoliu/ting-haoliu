@@ -6,7 +6,7 @@
 
 ### 🔥 My Projects
 - 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
-- 🛒 [**E-commerce Platform**]([https://github.com/your-username/ecommerce](https://github.com/ting-haoliu/NEU-INFO6250-Web_Dev/tree/main/final))
+- 🛒 [**E-commerce Platform**](https://github.com/ting-haoliu/NEU-INFO6250-Web_Dev/tree/main/final)
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tinghao-liu)  
