@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tinghao Liu!
 
-<!--
-**ting-haoliu/ting-haoliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master’s Student in Computer Software Engineering at Northeastern University**  
+💻 **Full-Stack Developer | JavaScript, Python, Node.js, React, SQL, NoSQL**  
+🚀 Passionate about Web Development and Software Engineer.
 
-Here are some ideas to get you started:
+### 🔥 My Projects
+- 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
+- 🛒 [**E-commerce Platform**]([https://github.com/your-username/ecommerce](https://github.com/ting-haoliu/NEU-INFO6250-Web_Dev/tree/main/final))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tinghao-liu)  
+📧 Email: tinghaoliu1115@gmail.com
