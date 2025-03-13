@@ -1,7 +1,7 @@
 # Hi, I'm Tinghao Liu!
 
-🎓 **Master’s Student in Computer Software Engineering at Northeastern University**  
-💻 **Full-Stack Developer | JavaScript, Python, Node.js, React, SQL, NoSQL**  
+🎓 Master’s Student in Computer Software Engineering at Northeastern University  
+💻 Full-Stack Developer | JavaScript, Python, Node.js, React, SQL, NoSQL  
 🚀 Passionate about Web Development and Software Engineering.
 
 ## 🛠 **Technologies**
@@ -50,5 +50,5 @@
 - 🛒 [**E-commerce Platform**](https://github.com/ting-haoliu/NEU-INFO6250-Web_Dev/tree/main/final) - A React front-end e-commerce website.
 
 ## 📫 Contact Me
-📧 Email: tinghaoliu1115@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tinghao-liu)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Email**: tinghaoliu1115@gmail.com  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> **Linkedin**: https://www.linkedin.com/in/tinghao-liu
