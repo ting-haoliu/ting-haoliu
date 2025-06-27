@@ -51,7 +51,7 @@
 
 ## 🔥 My Projects
 - 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
-- 🛒 [**E-commerce Platform**](https://github.com/ting-haoliu/NEU-INFO6250-Web_Dev/tree/main/final) - A React front-end e-commerce website.
+- 🛒 [**E-commerce Platform**](https://github.com/ting-haoliu/react-ecommerce) - A React front-end e-commerce website.
 
 ## 📫 Contact Me
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Email**: tinghaoliu1115@gmail.com  
