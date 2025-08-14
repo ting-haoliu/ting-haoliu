@@ -43,11 +43,8 @@
 - **🚀 Development Practices:**
   
   ![OOP](https://img.shields.io/badge/-OOP-blueviolet?style=flat-square)
-  ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square)
   ![TDD](https://img.shields.io/badge/-TDD-orange?style=flat-square)
-  ![CI/CD](https://img.shields.io/badge/-CI/CD-red?style=flat-square)
   ![REST API](https://img.shields.io/badge/-REST%20API-0082C9?style=flat-square)
-  ![SDLC](https://img.shields.io/badge/-SDLC-660099?style=flat-square)
 
 ## 🔥 My Projects
 - 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
