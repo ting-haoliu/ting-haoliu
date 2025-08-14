@@ -1,6 +1,6 @@
 # Hi, I'm Ting-Hao(Adam) Liu!
 
-🎓 Graduated Master’s in Computer Software Engineering from Northeastern University  
+🎓 Graduated Master’s in Information Systems from Northeastern University  
 💻 Full-Stack Developer | JavaScript, Python, Node.js, React, SQL, NoSQL  
 🚀 Passionate about Web Development and Software Engineering
 
