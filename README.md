@@ -26,7 +26,6 @@
 - **🗄 Databases:**
   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 - **🛠 Tools & Platforms:**  
@@ -37,18 +36,16 @@
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square)
   ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat-square)
   ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongodb&logoColor=white&style=flat-square)
   ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat-square)
 
 - **🚀 Development Practices:**
   
   ![OOP](https://img.shields.io/badge/-OOP-blueviolet?style=flat-square)
-  ![TDD](https://img.shields.io/badge/-TDD-orange?style=flat-square)
   ![REST API](https://img.shields.io/badge/-REST%20API-0082C9?style=flat-square)
 
 ## 🔥 My Projects
-- 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
 - 🛒 [**Movie Searching APP**](https://github.com/ting-haoliu/react-movie_searching) - A React front-end movie searching website.
+- 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
 
 ## 📫 Contact Me
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Email**: tinghaoliu1115@gmail.com  
