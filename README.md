@@ -43,7 +43,7 @@
   ![REST API](https://img.shields.io/badge/-REST%20API-0082C9?style=flat-square)
 
 ## 🔥 My Projects
-- 🛒 [**Movie Searching APP**](https://github.com/ting-haoliu/react-movie_searching) - A React front-end movie searching website.
+- 🛒 [**React-Movie-Search-App**](https://github.com/ting-haoliu/react-movie-search-app#) - A React front-end movie searching website.
 - 🏕 [**YelpCamp**](https://github.com/ting-haoliu/yelpcamp) - A full-stack campground review app.
 
 ## 📫 Contact Me
